@@ -30,7 +30,7 @@ public class FavoriteMovies {
         }
         int size= movies.size();
         System.out.println("\nTotal number of movies: " +size);
-       // System.out.println("\nTotal number of movies: " + movies.size());
+        // System.out.println("\nTotal number of movies: " + movies.size());
 
     }
 }
